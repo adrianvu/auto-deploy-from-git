@@ -1,4 +1,4 @@
-auto-deploy-from-git
+Auto-Deploy From Git Instructions
 ====================
 
 Here's how to set up automated deploying of codes from GitHub or BitBucket. After pushing a commit from your local machine, your server will get a POST request from GitHub/BitBucket and will make a pull request to update the codes on the server.
